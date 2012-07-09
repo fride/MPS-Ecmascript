@@ -40,8 +40,10 @@
           <property name="name" nameId="tpck.1169194664001" value="name" />
         </node>
       </node>
-      <node role="alternate" roleId="9ev1.7347198961288698147" type="9ev1.JSExpressionStatement" typeId="9ev1.7347198961288698139" id="6200026101658063264">
-        <node role="expression" roleId="9ev1.7347198961288698142" type="9ev1.JSVariableReference" typeId="9ev1.6200026101658044910" id="6200026101658063266" />
+      <node role="alternate" roleId="9ev1.7347198961288698147" type="9ev1.JSReturnStatement" typeId="9ev1.7347198961288698178" id="6933866359485323451">
+        <node role="argument" roleId="9ev1.7347198961288698180" type="9ev1.JSVariableReference" typeId="9ev1.6200026101658044910" id="6933866359485326328">
+          <link role="declaration" roleId="9ev1.6200026101658044911" targetNodeId="6200026101657702710" resolveInfo="murks" />
+        </node>
       </node>
     </node>
   </root>
