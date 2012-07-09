@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<history>
+  <StructureModification>
+    <dependencies>
+      <model index="9ev1" modelUID="r:1d41114c-7224-4743-bb39-a1eefd4e7a9c(EcmaScript.structure)" version="-1" />
+    </dependencies>
+    <rename id="9ev1.7347198961288697721" type="CONCEPT" from="JExpression" to="JSExpression" />
+  </StructureModification>
+</history>
+
