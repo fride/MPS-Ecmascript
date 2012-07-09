@@ -6,5 +6,11 @@
     </dependencies>
     <rename id="9ev1.7347198961288697721" type="CONCEPT" from="JExpression" to="JSExpression" />
   </StructureModification>
+  <StructureModification>
+    <dependencies>
+      <model index="9ev1" modelUID="r:1d41114c-7224-4743-bb39-a1eefd4e7a9c(EcmaScript.structure)" version="0" />
+    </dependencies>
+    <rename id="9ev1.6200026101657955391" type="CONCEPT" from="JSVariableReference" to="JSReference" />
+  </StructureModification>
 </history>
 
