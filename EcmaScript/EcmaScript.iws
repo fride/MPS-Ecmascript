@@ -29,12 +29,21 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="993fa0c9-b591-4d88-9431-c9f8c8a9eeea" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/buildDistribution.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/icons/MPS16.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/icons/MPS32.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/icons/about.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/icons/caption.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/icons/dialogImage.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/icons/slogan.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/icons/splash.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/solutions/EcmaScript.build/models/EcmaScript/build/mps.mps" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/solutions/EcmaScript.build0/models/EcmaScript/build/idea.mps" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/solutions/EcmaScript.build1/build.msd" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/solutions/EcmaScript.build1/models/EcmaScript/build.mps" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/solutions/EcmaScript.sandbox/source_gen.caches/EcmaScript/sandbox/sandbox/generated" afterPath="$PROJECT_DIR$/solutions/EcmaScript.sandbox/source_gen.caches/EcmaScript/sandbox/sandbox/generated" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/EcmaScript.iws" afterPath="$PROJECT_DIR$/EcmaScript.iws" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/EcmaScript/languageModels/constraints.mps" afterPath="$PROJECT_DIR$/languages/EcmaScript/languageModels/constraints.mps" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/EcmaScript/languageModels/editor.mps" afterPath="$PROJECT_DIR$/languages/EcmaScript/languageModels/editor.mps" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/EcmaScript/languageModels/structure.mps" afterPath="$PROJECT_DIR$/languages/EcmaScript/languageModels/structure.mps" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/solutions/EcmaScript.sandbox/models/EcmaScript/sandbox/sandbox.mps" afterPath="$PROJECT_DIR$/solutions/EcmaScript.sandbox/models/EcmaScript/sandbox/sandbox.mps" />
     </list>
     <ignored path="EcmaScript.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -57,6 +66,62 @@
         <scope_type scope_type="project_scope" module="&lt;default&gt;" model="&lt;default&gt;" />
       </option>
     </search_options>
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="EcmaScript" pinned="false" current="true" current-in-tab="true">
+        <entry file="mps://EcmaScript.build/EcmaScript">
+          <provider selected="true" editor-type-id="MPSFileEditor">
+            <state class="jetbrains.mps.ide.editor.BaseNodeEditor$BaseEditorState">
+              <memento viewPositionX="15" viewPositionY="0">
+                <selectionStack>
+                  <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
+                    <property name="hasNonTrivialSelection" value="false" />
+                    <property name="caretXRelative" value="24" />
+                    <property name="caretX" value="55" />
+                    <property name="sideSelectDirection" value="NONE" />
+                    <cellInfo cellId="Constant_q8whwb_a0" cellNumber="0" isInList="false">
+                      <node model="r:a9a5c73e-df2d-4ef5-aed3-59264a244748(EcmaScript.build)" id="938019183447415730" />
+                    </cellInfo>
+                  </stackElement>
+                </selectionStack>
+                <folded />
+              </memento>
+              <inspectorMemento viewPositionX="0" viewPositionY="0">
+                <selectionStack />
+                <folded />
+              </inspectorMemento>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="EcmaScriptDistribution" pinned="false" current="false" current-in-tab="false">
+        <entry file="mps://EcmaScript.build/EcmaScriptDistribution">
+          <provider selected="true" editor-type-id="MPSFileEditor">
+            <state class="jetbrains.mps.ide.editor.BaseNodeEditor$BaseEditorState">
+              <memento viewPositionX="15" viewPositionY="0">
+                <selectionStack>
+                  <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
+                    <property name="hasNonTrivialSelection" value="false" />
+                    <property name="caretXRelative" value="8" />
+                    <property name="caretX" value="271" />
+                    <property name="sideSelectDirection" value="NONE" />
+                    <cellInfo cellId="Constant_ayjduv_a2a" cellNumber="0" isInList="false">
+                      <node model="r:a9a5c73e-df2d-4ef5-aed3-59264a244748(EcmaScript.build)" id="938019183447415881" />
+                    </cellInfo>
+                  </stackElement>
+                </selectionStack>
+                <folded />
+              </memento>
+              <inspectorMemento viewPositionX="0" viewPositionY="0">
+                <selectionStack />
+                <folded />
+              </inspectorMemento>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
@@ -189,10 +254,6 @@
               <option name="myItemId" value="" />
               <option name="myItemType" value="" />
             </PATH_ELEMENT>
-            <PATH_ELEMENT USER_OBJECT="EcmaScript">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT USER_OBJECT="Empty">
@@ -203,25 +264,7 @@
               <option name="myItemId" value="" />
               <option name="myItemType" value="" />
             </PATH_ELEMENT>
-            <PATH_ELEMENT USER_OBJECT="EcmaScript">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT USER_OBJECT="EcmaScript.actions">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT USER_OBJECT="Empty">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT USER_OBJECT="Project">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT USER_OBJECT="EcmaScript.sandbox">
+            <PATH_ELEMENT USER_OBJECT="EcmaScript.build">
               <option name="myItemId" value="" />
               <option name="myItemType" value="" />
             </PATH_ELEMENT>
@@ -229,45 +272,7 @@
               <option name="myItemId" value="" />
               <option name="myItemType" value="" />
             </PATH_ELEMENT>
-            <PATH_ELEMENT USER_OBJECT="EcmaScript.sandbox.sandbox">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT USER_OBJECT="2383259711755455981">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT USER_OBJECT="Empty">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT USER_OBJECT="Project">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT USER_OBJECT="EcmaScript.sandbox">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT USER_OBJECT="EcmaScript">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT USER_OBJECT="EcmaScript.sandbox.sandbox">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT USER_OBJECT="2383259711755455981">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT USER_OBJECT="938019183447363135">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT USER_OBJECT="938019183447363137">
+            <PATH_ELEMENT USER_OBJECT="EcmaScript.build">
               <option name="myItemId" value="" />
               <option name="myItemType" value="" />
             </PATH_ELEMENT>
@@ -446,6 +451,91 @@
     <option name="FILE_HISTORY_SPLITTER_PROPORTION" value="0.6" />
     <MESSAGE value="Tried to add references. Does not work at all ;-)" />
     <MESSAGE value="Added references and some node rewriting." />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="mps://jetbrains.mps.baseLanguage.structure/Expression">
+      <provider selected="true" editor-type-id="MPSFileEditor">
+        <state class="jetbrains.mps.ide.editorTabs.TabbedEditor$TabbedEditorState">
+          <memento viewPositionX="0" viewPositionY="0">
+            <selectionStack>
+              <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
+                <property name="hasNonTrivialSelection" value="false" />
+                <property name="caretXRelative" value="0" />
+                <property name="caretX" value="75" />
+                <property name="sideSelectDirection" value="NONE" />
+                <cellInfo cellId="TransactionalProperty_ueqr71_b0a" cellNumber="0" isInList="false">
+                  <node model="r:00000000-0000-4000-0000-011c895902ca(jetbrains.mps.baseLanguage.structure)" id="1068431790191" />
+                </cellInfo>
+              </stackElement>
+            </selectionStack>
+            <folded />
+          </memento>
+          <inspectorMemento viewPositionX="0" viewPositionY="0">
+            <selectionStack>
+              <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
+                <property name="hasNonTrivialSelection" value="false" />
+                <property name="caretXRelative" value="0" />
+                <property name="caretX" value="75" />
+                <property name="sideSelectDirection" value="NONE" />
+                <cellInfo cellId="TransactionalProperty_ueqr71_b0a" cellNumber="0" isInList="false">
+                  <node model="r:00000000-0000-4000-0000-011c895902ca(jetbrains.mps.baseLanguage.structure)" id="1068431790191" />
+                </cellInfo>
+              </stackElement>
+            </selectionStack>
+            <folded />
+          </inspectorMemento>
+          <node nodeId="1068431790191" modelId="r:00000000-0000-4000-0000-011c895902ca(jetbrains.mps.baseLanguage.structure)" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="mps://EcmaScript.build/EcmaScriptDistribution">
+      <provider selected="true" editor-type-id="MPSFileEditor">
+        <state class="jetbrains.mps.ide.editor.BaseNodeEditor$BaseEditorState">
+          <memento viewPositionX="15" viewPositionY="0">
+            <selectionStack>
+              <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
+                <property name="hasNonTrivialSelection" value="false" />
+                <property name="caretXRelative" value="8" />
+                <property name="caretX" value="271" />
+                <property name="sideSelectDirection" value="NONE" />
+                <cellInfo cellId="Constant_ayjduv_a2a" cellNumber="0" isInList="false">
+                  <node model="r:a9a5c73e-df2d-4ef5-aed3-59264a244748(EcmaScript.build)" id="938019183447415881" />
+                </cellInfo>
+              </stackElement>
+            </selectionStack>
+            <folded />
+          </memento>
+          <inspectorMemento viewPositionX="0" viewPositionY="0">
+            <selectionStack />
+            <folded />
+          </inspectorMemento>
+        </state>
+      </provider>
+    </entry>
+    <entry file="mps://EcmaScript.build/EcmaScript">
+      <provider selected="true" editor-type-id="MPSFileEditor">
+        <state class="jetbrains.mps.ide.editor.BaseNodeEditor$BaseEditorState">
+          <memento viewPositionX="15" viewPositionY="0">
+            <selectionStack>
+              <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
+                <property name="hasNonTrivialSelection" value="false" />
+                <property name="caretXRelative" value="24" />
+                <property name="caretX" value="55" />
+                <property name="sideSelectDirection" value="NONE" />
+                <cellInfo cellId="Constant_q8whwb_a0" cellNumber="0" isInList="false">
+                  <node model="r:a9a5c73e-df2d-4ef5-aed3-59264a244748(EcmaScript.build)" id="938019183447415730" />
+                </cellInfo>
+              </stackElement>
+            </selectionStack>
+            <folded />
+          </memento>
+          <inspectorMemento viewPositionX="0" viewPositionY="0">
+            <selectionStack />
+            <folded />
+          </inspectorMemento>
+        </state>
+      </provider>
+    </entry>
   </component>
 </project>
 

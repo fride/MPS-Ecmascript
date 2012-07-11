@@ -7,6 +7,7 @@
   <component name="MPSProject">
     <projectModules>
       <modulePath path="${project}/languages/EcmaScript/EcmaScript.mpl" />
+      <modulePath path="${project}/solutions/EcmaScript.build1/build.msd" />
       <modulePath path="${project}/solutions/EcmaScript.sandbox/EcmaScript.sandbox.msd" />
     </projectModules>
     <genConfs />
