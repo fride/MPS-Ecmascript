@@ -28,22 +28,9 @@
     </option>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="993fa0c9-b591-4d88-9431-c9f8c8a9eeea" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/buildDistribution.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/icons/MPS16.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/icons/MPS32.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/icons/about.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/icons/caption.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/icons/dialogImage.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/icons/slogan.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/icons/splash.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/solutions/EcmaScript.build/models/EcmaScript/build/mps.mps" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/solutions/EcmaScript.build0/models/EcmaScript/build/idea.mps" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/solutions/EcmaScript.build1/build.msd" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/solutions/EcmaScript.build1/models/EcmaScript/build.mps" />
+    <list default="true" id="993fa0c9-b591-4d88-9431-c9f8c8a9eeea" name="Default" comment="Build">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/solutions/EcmaScript.sandbox/source_gen.caches/EcmaScript/sandbox/sandbox/generated" afterPath="$PROJECT_DIR$/solutions/EcmaScript.sandbox/source_gen.caches/EcmaScript/sandbox/sandbox/generated" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/EcmaScript.iws" afterPath="$PROJECT_DIR$/EcmaScript.iws" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/EcmaScript/languageModels/structure.mps" afterPath="$PROJECT_DIR$/languages/EcmaScript/languageModels/structure.mps" />
     </list>
     <ignored path="EcmaScript.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -352,7 +339,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="22" width="1680" height="1024" extended-state="0" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32938644" sideWeight="0.49788776" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Usages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -369,7 +356,7 @@
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Bookmarks" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Generation Tracer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.33414933" sideWeight="0.6932185" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.33414933" sideWeight="0.6932185" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24847001" sideWeight="0.6932185" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Classpath Explorer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
