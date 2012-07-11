@@ -172,10 +172,6 @@
       <property name="name" nameId="tpck.1169194664001" value="deleteExpressionStatement" />
       <link role="applicableConcept" roleId="tpc2.1139535219968" targetNodeId="9ev1.7347198961288698139" resolveInfo="JSExpressionStatement" />
     </node>
-    <node type="tpc2.ConceptEditorDeclaration" typeId="tpc2.1071666914219" id="6200026101658140219">
-      <property name="virtualPackage" nameId="tpck.1193676396447" value="expression" />
-      <link role="conceptDeclaration" roleId="tpc2.1166049300910" targetNodeId="9ev1.6200026101658140217" resolveInfo="JSAdditionExpression" />
-    </node>
     <node type="tpc2.CellMenuComponent" typeId="tpc2.1166040637528" id="1481836496285131332">
       <property name="virtualPackage" nameId="tpck.1193676396447" value="expression" />
       <property name="name" nameId="tpck.1169194664001" value="replace_withAnotherBinaryExpression" />
@@ -983,20 +979,6 @@
       </node>
     </node>
   </root>
-  <root id="6200026101658140219">
-    <node role="cellModel" roleId="tpc2.1080736633877" type="tpc2.CellModel_Collection" typeId="tpc2.1073389446423" id="6200026101658140221">
-      <node role="childCellModel" roleId="tpc2.1073389446424" type="tpc2.CellModel_RefNode" typeId="tpc2.1073389882823" id="6200026101658140226">
-        <link role="relationDeclaration" roleId="tpc2.1140103550593" targetNodeId="9ev1.7347198961288698317" />
-      </node>
-      <node role="childCellModel" roleId="tpc2.1073389446424" type="tpc2.CellModel_Property" typeId="tpc2.1073389658414" id="6200026101658140227">
-        <link role="relationDeclaration" roleId="tpc2.1140103550593" targetNodeId="tpck.1156235010670" resolveInfo="alias" />
-      </node>
-      <node role="childCellModel" roleId="tpc2.1073389446424" type="tpc2.CellModel_RefNode" typeId="tpc2.1073389882823" id="6200026101658140229">
-        <link role="relationDeclaration" roleId="tpc2.1140103550593" targetNodeId="9ev1.7347198961288698318" />
-      </node>
-      <node role="cellLayout" roleId="tpc2.1106270802874" type="tpc2.CellLayout_Indent" typeId="tpc2.1237303669825" id="6200026101658140223" />
-    </node>
-  </root>
   <root id="1481836496285131332">
     <node role="menuDescriptor" roleId="tpc2.1166041505377" type="tpc2.CellMenuDescriptor" typeId="tpc2.1164824717996" id="1481836496285131333">
       <node role="cellMenuPart" roleId="tpc2.1164824815888" type="tpc2.CellMenuPart_Generic_Group" typeId="tpc2.1165420413719" id="1481836496285155420">
@@ -1026,9 +1008,9 @@
                 <node role="type" roleId="tpee.5680397130376446158" type="tp25.SNodeType" typeId="tp25.1138055754698" id="1481836496285155497">
                   <link role="concept" roleId="tp25.1138405853777" targetNodeId="9ev1.7347198961288698307" resolveInfo="JSBinaryExpression" />
                 </node>
-                <node role="initializer" roleId="tpee.1068431790190" type="tpee.DotExpression" typeId="tpee.1197027756228" id="1481836496285172138">
+                <node role="initializer" roleId="tpee.1068431790190" type="tpee.DotExpression" typeId="tpee.1197027756228" id="938019183447363202">
                   <node role="operand" roleId="tpee.1197027771414" type="tpc2.CellMenuPart_AbstractGroup_parameterObject" typeId="tpc2.1163613549566" id="1481836496285155499" />
-                  <node role="operation" roleId="tpee.1197027833540" type="tp25.Concept_NewInstance" typeId="tp25.1181949435690" id="1481836496285172272" />
+                  <node role="operation" roleId="tpee.1197027833540" type="tp25.Concept_NewInstance" typeId="tp25.1181949435690" id="938019183447394739" />
                 </node>
               </node>
             </node>
